@@ -1,0 +1,56 @@
+
+/* Default Styling */
+
+p{
+    font-family: 'Franklin Gothic Medium', sans-serif;
+    font-size: 16px;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', sans-serif;
+    font-size: 24px;
+}
+
+/* Page Styling  */
+#header-main {   
+    background-color: red;
+  
+   ;
+}
+
+#wraper-main{
+    justify-content: space-between;
+   
+    
+}
+
+#logo{
+    width: 125px;
+    height: 125px;
+}
+
+.header-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.carousel-container{
+    width: 65%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.carousel-slide{
+    display: flex;
+    width: 100%;
+    height: 500px;
+}
+
