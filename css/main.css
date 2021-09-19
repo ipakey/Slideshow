@@ -44,7 +44,7 @@ h2{
 
 .carousel-container{
     width: 65%;
-    margin: auto;
+    margin: 25%;
     
   
     
@@ -53,7 +53,7 @@ h2{
 .carousel-slide{
     display: flex;
    border: 5px solid black;
-   overflow: hidden;
+   /*overflow: hidden;*/
 }
 
 .image{
